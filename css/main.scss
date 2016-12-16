@@ -1,0 +1,16 @@
+@import "normalize";
+@import "editorials.scss";
+@import "grid.scss";
+
+
+//Colors
+$white: #fff;
+$gray: #737d86;
+$blue: #0f3a69;
+$lightblue: rgba(#264c74, 0.8);
+$green: #0F9D58;
+$black: #212121;
+
+@import "header.scss";
+@import "content.scss";
+//@import "video.scss";
